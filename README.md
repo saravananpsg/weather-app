@@ -21,4 +21,4 @@ python weather_app.py
 ```
 ## Usuage
 
-http://localhost:5000/city?q=kathmandu
+http://localhost:5000/city?q=chennai
